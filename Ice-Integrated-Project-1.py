@@ -1,35 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# Hello!
-# My name is Ekaterina. I'm happy to review your project today.
-# When I will see mistake at the first time, I will just point it out. I let you find it and fix it by 
-# yourself. I'm trying to prepare you to work as an Data Analyst. SO, at a real job, your team lead 
-# will do the same. But if you can't handle this task yet, I will give you a more accurate hint at the 
-# next iteration.
-# You will find my comments below - please do not move, modify or delete them.
-# You can find my comments in green, yellow or red boxes like this:
-# <div class="alert alert-block alert-success"> <b>Reviewer's comment</b> <a 
-# class="tocSkip"></a>
-# Success. Everything is done succesfully. </div>
-# <div class="alert alert-block alert-warning"> <b>Reviewer's comment</b> <a 
-# class="tocSkip"></a>
-# Remarks. Some recommendations. </div>
-# <div class="alert alert-block alert-danger">
-# <b>Reviewer's comment</b> <a class="tocSkip"></a>
-# Needs fixing. The block requires some corrections. Work can't be accepted with the red 
-# comments. </div>
-# You can answer me by using this: not sue what i can do about putting all the imports in the first cell 
-# <div class="alert alert-block alert-info"> <b>Student answer.</b> <a class="tocSkip"></a> 
-# </div>
-# 
-# 
-# **Keep in mind that the project will be accepted only when all the “red” issues are resolved.**
-
-# <div class="alert alert-block alert-success">
-#     
-# <b>**General feedback**</b> <a class="tocSkip"></a>
-#     
 # Hi, Mohamed 
 #     
 # Thank you for submiting such a nice project
